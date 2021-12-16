@@ -1,6 +1,6 @@
 # mapping sustainable supply chains
 --------
-a project by Simon Stewart (son of a map maker)
+a project by Simon Stewart dec 2021
 
 a geospatial data analysis on sustainable supply chain networks.
 
