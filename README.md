@@ -26,6 +26,7 @@ The project sets out a potentially unrealistic role of trying to map a story tha
 
 ## Hypothesis
 Can one map a MNC's supply chain with publicly accesible information?
+<img width="1128" alt="Screenshot 2021-12-17 at 02 42 29" src="https://user-images.githubusercontent.com/44263926/146474881-a126c2e3-db3b-44bf-8795-d8f5cac2e3ca.png">
 
 ## Tools
 The project used python as a tool for data extraction, scraping and cleaning, with Tableau for visualizations and conceptual layouts, while the final artboards were put together in Adobe Illustrator.
