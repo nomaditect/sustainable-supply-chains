@@ -1,13 +1,12 @@
 # where do things really come from?
+a geospatial project by Simon Stewart dec 2021
 
-a project by Simon Stewart dec 2021
-
-![7-10-07](https://user-images.githubusercontent.com/44263926/146465432-e7c0f1b8-1af4-468e-8747-485210db0ce6.png)
+<img src= https://user-images.githubusercontent.com/44263926/146465432-e7c0f1b8-1af4-468e-8747-485210db0ce6.png width="800" height="500"> 
 
 
-a geospatial data analysis on sustainable supply chain networks.
+---
 
-The aim of this project is to use geospatial data analysis techniques to try and track multinational corporations (MNC's).
+The aim of this project is to use geospatial data analysis techniques to try and track multinational corporations (MNC's) and their impacts.
 
 ---
 # thesis:
