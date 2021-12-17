@@ -34,7 +34,9 @@ The project used python as a tool for data extraction, scraping and cleaning, wi
 The Nike dataset was publicly avaliable on the website.
 
 JBS Leather: https://data.world/makeovermonday/2018w36-the-nike-manufacturing-map
+
 NIKE: https://supplychains.trase.earth/data
+
 DEFORESTATION: https://www.stand.earth/publication/forest-conservation/amazon-forest-protection/amazon-leather-supply-chain
 
 ## Method (Analysis)
